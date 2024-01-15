@@ -16,5 +16,5 @@ Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
 Deciphering is done in reverse, with a right shift of 3. 
 
 ## More to read
-[Wikipedia](https://en.wikipedia.org/wiki/Caesar_cipher)
-[brilliant.org](https://brilliant.org/wiki/caesar-cipher/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Caesar_cipher)
+- [brilliant.org](https://brilliant.org/wiki/caesar-cipher/)
