@@ -5,7 +5,15 @@ In cryptography, a Caesar cipher, also known as Caesar's cipher, the shift ciphe
 
 ## Working
 The action of a Caesar cipher is to replace each plaintext letter with a different one a fixed number of places down the alphabet.
+
 ![(caesar-cipher-example)](https://ds055uzetaobb.cloudfront.net/brioche/uploads/7kJpXQqFoJ-800px-caesar3svg.png?width=1200)
+
+## Analysis
+For plain text with $n$ number of characters.
+- Time Complexity
+    - $O(n)$ : $O(n)$ for traversing all characters and $O(1)$ for substituting each character.
+- Space Complexity
+    - $O(n)$ : $O(n)$ for plain text and $O(n)$ auxiliary space for cipher text.
 
 ## Example
 Here is a Caesar cipher using a left rotation of three places, equivalent to a right shift of 23 (the shift parameter is used as the key):
