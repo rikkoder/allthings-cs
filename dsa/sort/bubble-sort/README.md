@@ -5,6 +5,7 @@ Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorith
 
 ## Working
 The Bubble sort algorithm compares each pair of elements in an array and swaps them if they are out of order until the entire array is sorted. For each element in the list, the algorithm compares every pair of elements.
+
 ![(bubble-sort-example)](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
 
 ## Analysis
