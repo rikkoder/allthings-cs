@@ -9,6 +9,7 @@ The Bubble sort algorithm compares each pair of elements in an array and swaps t
 ![(bubble-sort-example)](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
 
 ## Analysis
+For array containing $n$ number of elements.
 - Time Complexity
     - Worst case (reversed sorted array): $O(n^2)$
     - Average case (random array): $O(n^2)$
